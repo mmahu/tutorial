@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: eureka
+
+application:
+server:
+  port: 8080

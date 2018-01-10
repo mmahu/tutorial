@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: rabbit-producer
+  rabbitmq:
+    username: admin
+    password: QAZwsx123
+    host: 192.168.99.100
+
+server:
+  port: 8080
