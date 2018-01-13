@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: mongodb
+  data:
+    mongodb:
+      host: 192.168.99.100
+      port: 27017
+      username: admin
+server:
+  port: 8080
+
